@@ -19,5 +19,5 @@ Downloadable data from Kaggle on google's stock prices ranging from 2009 - 2017.
 Run jupyter notebook at project root level
 
 ## Project Report
-A final report containing through discussions on the implementation details and the results is available as report.pdf.
+A final report containing thorough discussions on the implementation details and the results is available as report.pdf.
 
